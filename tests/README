@@ -1,0 +1,4 @@
+The tests are divided in two parts.
+
+The first line is the path that is being tested.
+All the remaining lines is what the output must match for the test to pass.

@@ -1,0 +1,2 @@
+I have not verified that these tests yield correct scoring.
+They only exist to verify that hands smaller that seven letters work, which happens very late in the game.
